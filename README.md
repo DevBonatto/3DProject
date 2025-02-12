@@ -19,7 +19,7 @@ This is a simple project to show how Three.js works
 ## ▶️ Running
 Clone the project with:
 ```bash
-  git clone https://github.com/DevBonatto/RocketMovies
+  git clone https://github.com/DevBonatto/3DProject
 ```
 
 Then use this command to install the dependencies:
