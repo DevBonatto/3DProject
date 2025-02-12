@@ -10,7 +10,7 @@ This is a simple project to show how Three.js works
 ## 🚀 Technologies/Tools
 - Three.js
 - JavaScript
-- Node Package Manager
+- Node Package Manager (NPM)
 - Vite
 
 ## 🎥 Project
