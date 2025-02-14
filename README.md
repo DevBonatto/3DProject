@@ -22,7 +22,7 @@ Clone the project with:
   git clone https://github.com/DevBonatto/3DProject
 ```
 
-Then access the paste that you just created:
+Then access the folder that you just created:
 ```bash
   cd 3DProject
 ```
